@@ -18,6 +18,13 @@ This project addresses the challenge of predicting mental health conditions usin
 
 The project utilizes both classical machine learning techniques and neural networks to compare and determine the best approach for each mental health condition.
 
+## Data Analysis
+
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/fddffd9e-fb12-41ed-bb23-205abbb2901a">
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/44a8226e-1b63-413a-a0b6-b884ae3b87ca">
+
+
 ## Machine Learning Models
 
 The following machine learning algorithms are used:
@@ -68,6 +75,7 @@ To run this project locally, follow these steps:
 2. Customize the dataset and model parameters to fine-tune the model for better performance.
 
 ## Results
+<img width="402" alt="image" src="https://github.com/user-attachments/assets/524094b6-e41c-44e1-aebd-0f17a5499c03">
 
 The Random Forest model emerged as the most reliable model across different conditions, consistently delivering high accuracy. Below is a summary of the results:
 
